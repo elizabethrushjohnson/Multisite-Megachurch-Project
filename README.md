@@ -33,7 +33,7 @@ by neoclassical conceptions of markets and competition. My desire with this proj
 Megachurches and multisite organizations did not arise spontaneously or purely from organizational innovation, 
 but must be understood as a product of the American macroeconomic conditions. Just as corporations and individuals 
 must grapple with the economic  realities of their own political-economic context in a competitive marketplace, 
-churches must do so as well, competing for money and volunteer time. These two resources come from a single 
+churches must do so as well, competing for donations and volunteer time. These two resources come from a single 
 source -- parishioners, and are a finite and dwindling resource in the United States. I believe that both 
 megachurches and their organizational evolution into multisite organizations represent a response to the 
 confluence of declining religious activity participation and macroeconomic conditions starting in the 1970's 
