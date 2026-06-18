@@ -101,8 +101,18 @@ See [here](Figures%20and%20Graphs/NCHS%20Graphs) for additional maps of Arizona,
 Interesting patterns can be seen in the other states, such as in Harris County, TX, where satellite campuses are heavily clustered in the suburbs along the Hwy 290 corridor (Southwestern portion of the county), 
 or in Southern California, where mains are heavily clustered in Los Angeles County, while satellites are heavily clustered in Orange County. Georgia displays an unsurprising pattern, with mains clustered in Fulton County (Atlanta), while satellites surround Atlanta in the metro area counties.
 In Maricopa County, Arizona, which contains the bulk of the Phoenix metro area, mains and satellites are clustered densely along the I-10 and Hwy 60 corridors. 
-<br> 
-<br> 
+<br>
+<br>
+
+Summary table of the NCHS-USRC-multisite database join:
+
+<br>
+
+![](Figures%20and%20Graphs/Tables/summarystat_tab.png)
+
+<br>
+<br>
+
 
 ## 2. Next steps
 
