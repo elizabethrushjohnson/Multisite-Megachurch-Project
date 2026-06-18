@@ -88,7 +88,7 @@ more easily visible when flipping between the main and satellite only versions).
 ### D. Urban-Rural classification
 <br>
 
-I have joined my database with several databases with county-level information on all congregations and adherents (US Religion Census), population (USRC for 2010/2020, US Census Vintage 2025), and the CDC's Urban-Rural classification (NCHS).
+I have joined my database with several databases that hold county-level information on all congregations and adherents (US Religion Census), population (USRC for 2010/2020, US Census Vintage 2025), and the CDC's Urban-Rural classification (NCHS).
 Using this joined information I have produced a series of state-level maps which better demonstrate the urban-suburban nature of multisite locations:
 
 <br>
@@ -104,7 +104,7 @@ In Maricopa County, Arizona, which contains the bulk of the Phoenix metro area, 
 <br>
 <br>
 
-Summary table of the NCHS-USRC-multisite database join:
+Summary table of the NCHS-Census-USRC-multisite database join:
 
 <br>
 
