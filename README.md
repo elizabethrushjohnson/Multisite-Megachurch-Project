@@ -56,5 +56,5 @@ churches who have changed their names or moved to a different denomination, and 
 
 I have mapped out the spatial distribution of megachurches and their campuses:
 
-![](Figures and Graphs/megachurchmap1.png)
+![](Figures%20and%20Graphs/megachurchmap1.png)
 
