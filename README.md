@@ -49,7 +49,7 @@ understanding of religious markets.
 
 ## Work to date
 
-As Scott Thumma's megachurch database is continuously updated, I took a snapshot in May 2026, on which I have based my own database of multisite megachurches.
+As Scott Thumma's megachurch database is continuously updated, I took a snapshot in May 2026, on which I have based [my own database](mcdb_final_backup.xlsx) of multisite megachurches.
 I spent over a month going to every single megachurch website (1666 in total), gathering the names of megachurch campuses, number of services offered, addresses, updating
 churches who have changed their names or moved to a different denomination, and marking defunct churches where applicable. My updated database has 1579 active megachurches,
 1770 satellite campuses, for a combined total of 3349 unique campus locations.
