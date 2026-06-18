@@ -15,7 +15,8 @@ of expansion for megachurches beyond the construction of larger and larger build
 campuses. This model emerged in the mid-2000's and rapidly proliferated throughout the 2010's. Today,
 roughly 1/3 of organizations identified as megachurches (by the Hartford Institute) possess at least
 one multicampus expansion site. This phenomenon exists within an overarching trend in American
-Protestant church attendance into larger
+Protestant church attendance since the 1970's into larger, fewer churches, concentrating more heavily
+in the top 1% of churches by attendance.
 
 The aim of my research is to establish the multsite megachurch within conceptions of
 a competitive religious marketplace, one in which churches not only compete with one another,
