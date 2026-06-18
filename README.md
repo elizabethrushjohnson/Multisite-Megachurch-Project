@@ -1,8 +1,10 @@
 # Multisite Megachurch Project
-
+<br>
 This repository is intended to share my progress on my master's thesis project, 
 a study of American megachurches (Protestant congregations with 2000 or more weekly attendance) 
 and their satellite campuses, and the impact that they have on local church density. 
+<br>
+<br>
 
 ## Introduction
 
@@ -42,3 +44,17 @@ and the work of Jörg Stolz (who is also one of my supervisors on my thesis) on 
 Institute's [megachurch database](https://hirr.hartfordinternational.edu/research/megachurch-database/) for over 30 years. My project owes a great deal to the 
 [2011 paper](https://doi.org/10.1007/s13644-011-0009-2) by Wollschleger & Porter, who first showed the "Wal-mart" effect of megachurches, in the context of a nuanced
 understanding of religious markets.
+<br>
+<br>
+
+## Work to date
+
+As Scott Thumma's megachurch database is continuously updated, I took a snapshot in May 2026, on which I have developed into my own database of multisite megachurches.
+I spent over a month going to every single megachurch website (1666 in total), gathering the names of megachurch campuses, number of services offered, addresses, updating
+churches who have changed their names or moved to a different denomination, and marking defunct churches where applicable. My updated database has 1579 active megachurches,
+1770 satellite campuses, for a combined total of 3349 unique campus locations.
+
+I have mapped out the spatial distribution of megachurches and their campuses:
+
+![](Figures and Graphs/megachurchmap1.png)
+
