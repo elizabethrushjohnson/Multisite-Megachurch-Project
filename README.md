@@ -6,6 +6,8 @@ and their satellite campuses, and the impact that they have on local church dens
 <br>
 <br>
 
+Some initial results and figures from my progress so far (as of June 19, 2026) can be viewed [here](https://github.com/elizabethrushjohnson/Multisite-Megachurch-Project/blob/main/Progress%206_19_26.md).
+
 ## Introduction
 
 The narrow goal of this project is a desire to examine the "Wal-Mart effect" that megachurches have on local 
