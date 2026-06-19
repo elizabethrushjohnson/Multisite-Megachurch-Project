@@ -1,3 +1,12 @@
+## Table of Contents
+
+- [1. Work to date (June 19, 2026)](#1-work-to-date-june-19-2026)
+  - [A. Creation of a Multisite Megachurch database](#a-creation-of-a-multisite-megachurch-database)
+  - [B. Megachurches by county (Hartford database, 2001-2026)](#b-megachurches-by-county-hartford-database-2001-2026)
+  - [C. Spatial distribution (based on my location data)](#c-spatial-distribution-based-on-my-location-data)
+  - [D. Urban-Rural classification](#d-urban-rural-classification)
+- [2. Next steps](#2-next-steps)
+
 ## 1. Work to date (June 19, 2026)
 <br>
 
