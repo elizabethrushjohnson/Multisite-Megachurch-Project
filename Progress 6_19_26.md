@@ -12,6 +12,17 @@ churches who have changed their names or moved to a different denomination, and 
 
 <br>
 
+
+![](Figures%20and%20Graphs/Tables/top30_main_metro.png)
+<br>
+
+Based on my data, the top 30 US counties in terms of their megachurch presence. Metropole campuses are the main site/headquarters of a multisite megachurch organization,
+as distinguished from single-campus megachurches (such as Lakewood Church in Houston, TX), who have no multicampus satellites. 
+
+<br>
+
+<br>
+
 ### B. Megachurches by county (Hartford database, 2001-2026)
 <br>
 
