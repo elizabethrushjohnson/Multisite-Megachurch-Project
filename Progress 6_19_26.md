@@ -51,6 +51,8 @@ Using this joined information I have produced a series of state-level maps which
 <br>
 
 ![](Figures%20and%20Graphs/NCHS%20Graphs/nchs_map_il_in.png)
+<br>
+
 See [here](Figures%20and%20Graphs/NCHS%20Graphs/nchs_map_il_in_mains.png) for a view of main campuses only and [here](Figures%20and%20Graphs/NCHS%20Graphs/nchs_map_il_in_sats.png) here for satellite campuses.
 See [here](Figures%20and%20Graphs/NCHS%20Graphs) for additional maps of Arizona, California, Georgia, North & South Carolina, and Texas, as well as a map of the entire US (in 8K resolution!).
 
