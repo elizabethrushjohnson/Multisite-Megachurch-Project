@@ -31,15 +31,19 @@ I have mapped out the spatial distribution of megachurches and their campuses:
 
 ![](Figures%20and%20Graphs/megachurchmap1.png)
 See [here](Figures%20and%20Graphs/megachurchmap2.png) for a view of main campuses only and [here](Figures%20and%20Graphs/megachurchmap3.png) for satellites only.
-An interesting pattern can be observed in many areas with a megachurch presence -- the satellite campuses skew towards location in the urban periphery (this is
-more easily visible when flipping between the main and satellite only versions).
+An interesting pattern can be observed in many areas with a megachurch presence -- the satellite campuses skew a bit more towards location in the urban periphery (this is
+more easily visible when flipping between the main and satellite only versions). Single-campus and main campuses of multisite organizations
+concentrate more heavily in urban metro core areas, while satellite campuses are less concentrated, but still distributed in and around suburban and exurban areas surrounding
+the urban core.
 
 <br>
 
 ### D. Urban-Rural classification
 <br>
 
-I have joined my database with several databases that hold county-level information on all congregations and adherents (US Religion Census), population (USRC for 2010/2020, US Census Vintage 2025), and the CDC's Urban-Rural classification (NCHS).
+The apparent difference in distribution of main campuses versus multisite locaitons seen in the maps linked above suggest that multicampus expansion by megachurches favors suburban and exurban locations.
+To look a bit closer at this I have joined my database with several databases that hold county-level information on all congregations 
+and adherents (US Religion Census), population (USRC for 2010/2020, US Census Vintage 2025), and the CDC's Urban-Rural classification (NCHS).
 Using this joined information I have produced a series of state-level maps which better demonstrate the urban-suburban nature of multisite locations:
 
 <br>
