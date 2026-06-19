@@ -40,8 +40,8 @@ This dataset does not include multicampus information.
 ### C. Spatial distribution (based on my location data)
 <br>
 
-Using the tigris, sf, [OSRM](https://github.com/riatelab/osrm) and tidygeocoder packages in R, I was able to attach lattitude/longitude coordinates to every campus.
-I have mapped out the spatial distribution of megachurches and their campuses:
+Using the tigris, sf, [OSRM](https://github.com/riatelab/osrm) and tidygeocoder packages in R, I attached lattitude/longitude coordinates to every campus in my database.
+I have mapped out the spatial distribution of megachurches and their satellite campuses:
 <br>
 
 ![](Figures%20and%20Graphs/megachurchmap1.png)
