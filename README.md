@@ -42,7 +42,7 @@ confluence of declining religious activity participation and macroeconomic condi
 and continuing through the present day that have depressed congregants' ability to donate both time and money.
 
 My project is inspired by the work of Mark Chaves on megachurches and church concentration (especially [Chaves 2006](https://www.jstor.org/stable/20058102)),
-and the work of Jörg Stolz (who is also one of my supervisors on my thesis) on secular-religious competition. I am also grateful for Scott Thumma who has maintained the Hartford
+and the work of Jörg Stolz (who is also one of my supervisors on this project) on secular-religious competition. I am also grateful for Scott Thumma who has maintained the Hartford
 Institute's [megachurch database](https://hirr.hartfordinternational.edu/research/megachurch-database/) for over 30 years. My project owes a great deal to the 
 [2011 paper](https://doi.org/10.1007/s13644-011-0009-2) by Wollschleger & Porter, who first showed the "Wal-mart" effect of megachurches, in the context of a nuanced
 understanding of religious markets.
