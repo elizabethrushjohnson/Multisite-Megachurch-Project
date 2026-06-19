@@ -28,7 +28,11 @@ as distinguished from single-campus megachurches (such as Lakewood Church in Hou
 
 I have also compiled snapshots of the Hartford database going back to 2001:
 <br>
+
 ![](Figures%20and%20Graphs/Tables/combined_wide.png)
+<br>
+
+This dataset does not include multicampus information.
 
 <br>
 <br>
