@@ -30,6 +30,8 @@ I have mapped out the spatial distribution of megachurches and their campuses:
 <br>
 
 ![](Figures%20and%20Graphs/megachurchmap1.png)
+<br>
+
 See [here](Figures%20and%20Graphs/megachurchmap2.png) for a view of main campuses only and [here](Figures%20and%20Graphs/megachurchmap3.png) for satellites only.
 An interesting pattern can be observed in many areas with a megachurch presence -- the satellite campuses skew a bit more towards location in the urban periphery (this is
 more easily visible when flipping between the main and satellite only versions). Single-campus and main campuses of multisite organizations
