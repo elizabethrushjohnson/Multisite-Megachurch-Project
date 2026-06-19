@@ -68,6 +68,7 @@ the urban core.
 <br>
 
 The apparent difference in distribution of main campuses versus multisite locaitons seen in the maps linked above suggest that multicampus expansion by megachurches favors suburban and exurban locations.
+This is not exactly surprising, but the sub/exurban choice of location for where megachurches plan much of their multicampus expansions does hint as possible strategies (whether conscious or unconscious) behind these choices.
 To look a bit closer at this I have joined my database with several databases that hold county-level information on all congregations 
 and adherents (US Religion Census), population (USRC for 2010/2020, US Census Vintage 2025), and the CDC's Urban-Rural classification (NCHS).
 Using this joined information I have produced a series of state-level maps which better demonstrate the urban-suburban nature of multisite locations:
