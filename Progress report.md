@@ -132,9 +132,8 @@ Summary table of the NCHS-Census-USRC-multisite database join:
 
 ## 2. Next steps
 
-At the moment, my data is insufficient to proceed on a study of the impact of multisite megachurch organizations. Using the Hartford
-database as the basis for my study presents with a time-order problem. Since the US Religion Census, which will be my other
-dataset, has waves every 10 years (2010, 2020), but the Hartford database is updated continuously, I must have the founding dates for
+At the moment, my data is insufficient to proceed on a study of the impact of multisite megachurch organizations. I am presented with a time-order problem. Since the US Religion Census, which will be my other
+dataset, has waves every 10 years (2010, 2020), but the Hartfordy database is updated continuously, and my multicampus census represents a present day snapshot, I must have the founding dates for
 satellite campuses to make sure I am not introducing major errors introduced by including multisite campuses founded after 2020.
 <br>
 
