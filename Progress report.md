@@ -29,18 +29,15 @@ I spent over a month going to every single megachurch website (1666 in total), g
 My expansion of the Thumma/Hartford database has 1579 active megachurches,
 1770 satellite campuses, for a combined total of 3349 unique campus locations.
 <br>
-
 <br>
 
-
-![](Figures%20and%20Graphs/Tables/top30_main_metro.png)
+#### Definitions
+For the purposes of my census, a campus was defined as a discrete physical property where a church organization holds gatherings on a regular schedule (usually weekly), with a unique postal address.
+**Metropole campuses** are the main site/headquarters of a multisite megachurch organization, as distinguished from **single-campus** megachurches (such as Lakewood Church in Houston, TX), who have no multicampus satellites. 
 <br>
 
-Based on my data, the top 30 US counties in terms of their megachurch presence. **Metropole campuses** are the main site/headquarters of a multisite megachurch organization,
-as distinguished from single-campus megachurches (such as Lakewood Church in Houston, TX), who have no multicampus satellites. A multisite location was counted if it holds services
-in a physically distinct location from its parent/mother church. I made operationalization/methodological decisions in counting satellite campuses in two cases:
+A multisite location was counted as a campus if it holds services in a physically distinct location from its parent/mother church. I made operationalization/methodological decisions in counting satellite campuses in two other cases:
 <br>
-
 
 1. "Online" campuses (recordings or live streaming of a service)
 2. "Spanish" or "Español" campuses (and sometimes, other languages) 
@@ -51,6 +48,17 @@ I made the decision not to count these as discrete campuses, as my ultimate goal
 <br>
 
 <br>
+
+<br>
+
+#### Top 30 multisite megachurch counties
+
+![](Figures%20and%20Graphs/Tables/top30_main_metro.png)
+<br>
+
+Based on my data, the top 30 US counties in terms of their megachurch presence. 
+<br>
+
 
 ### B. Megachurch county historical rankings (Hartford database, 2001-2026)
 <br>
