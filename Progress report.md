@@ -6,6 +6,8 @@
   - [C. Spatial distribution (based on my location data)](#c-spatial-distribution-based-on-my-location-data)
   - [D. Urban-Rural classification](#d-urban-rural-classification)
 - [2. Next steps](#2-next-steps)
+<br>
+<br>
 
 ## 1. Work to date
 <br>
