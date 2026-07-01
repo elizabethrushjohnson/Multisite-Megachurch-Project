@@ -16,7 +16,7 @@
 <br>
 
 As Scott Thumma's megachurch database is continuously updated, I took a snapshot in May 2026, on which I have based my own census of multisite megachurches.
-I spent over a month going to every single megachurch website (1666 in total), gathering data on multisite megachurches. My census includes:
+Over the course of a month and a half I went to every single megachurch website (1666 in total), collecting data on multisite megachurch campuses. My census includes:
 <br>
 
 * Names of megachurch satellite campuses
