@@ -112,9 +112,9 @@ See [here](Figures%20and%20Graphs/NCHS%20Graphs/nchs_map_il_in_mains.png) for a 
 See [here](Figures%20and%20Graphs/NCHS%20Graphs) for additional maps of Arizona, California, Georgia, North & South Carolina, and Texas, as well as a map of the entire US (in 8K resolution!).
 
 <br> 
-Interesting patterns can be seen in the other states, such as in Harris County, TX, where satellite campuses are heavily clustered in the suburbs along the Hwy 290 corridor (Southwestern portion of the county), 
-or in Southern California, where mains are heavily clustered in Los Angeles County, while satellites are heavily clustered in Orange County. Georgia displays an unsurprising pattern, with mains clustered in Fulton County (Atlanta), while satellites surround Atlanta in the metro area counties.
-In Maricopa County, Arizona, which contains the bulk of the Phoenix metro area, mains and satellites are clustered densely along the I-10 and Hwy 60 corridors. 
+Interesting patterns can be seen in the other states, such as in Harris County, [Texas](https://github.com/elizabethrushjohnson/Multisite-Megachurch-Project/blob/main/Figures%20and%20Graphs/NCHS%20Graphs/nchs_map_texas.png), where satellite campuses are heavily clustered in the suburbs along the Hwy 290 corridor (Southwestern portion of the county), 
+or in [Southern California](https://github.com/elizabethrushjohnson/Multisite-Megachurch-Project/blob/main/Figures%20and%20Graphs/NCHS%20Graphs/nchs_map_california.png), where mains are heavily clustered in Los Angeles County, while satellites are heavily clustered in Orange County. [Georgia](https://github.com/elizabethrushjohnson/Multisite-Megachurch-Project/blob/main/Figures%20and%20Graphs/NCHS%20Graphs/nchs_map_georgia.png) displays an unsurprising pattern, with mains clustered in Fulton County (Atlanta), while satellites surround Atlanta in the metro area counties.
+In Maricopa County, [Arizona](https://github.com/elizabethrushjohnson/Multisite-Megachurch-Project/blob/main/Figures%20and%20Graphs/NCHS%20Graphs/nchs_map_az.png), which contains the bulk of the Phoenix metro area, mains and satellites are clustered densely along the I-10 and Hwy 60 corridors. 
 <br>
 <br>
 
