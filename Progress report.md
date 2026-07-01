@@ -1,7 +1,7 @@
 ## Table of Contents
 
 - [1. Work to date](#1-work-to-date)
-  - [A. Creation of a Multisite Megachurch database](#a-creation-of-a-multisite-megachurch-database)
+  - [A. Multisite Megachurch Census](#a-multisite-megachurch-census)
   - [B. Megachurch county historical rankings (Hartford database, 2001-2026)](#b-megachurch-county-historical-rankings-hartford-database-2001-2026)
   - [C. Spatial distribution (based on my location data)](#c-spatial-distribution-based-on-my-location-data)
   - [D. Urban-Rural classification](#d-urban-rural-classification)
@@ -12,7 +12,7 @@
 ## 1. Work to date
 <br>
 
-### A. Creation of a Multisite Megachurch database
+### A. Multisite Megachurch Census
 <br>
 
 As Scott Thumma's megachurch database is continuously updated, I took a snapshot in May 2026, on which I have based my own census of multisite megachurches.
