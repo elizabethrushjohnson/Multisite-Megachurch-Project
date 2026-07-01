@@ -47,11 +47,6 @@ I made the decision not to count these as discrete campuses, as my ultimate goal
 <br>
 
 Churches that claimed an "online" campus and/or a Spanish-language campus at the same location as the main service were not counted as multi-site organizations, but rather as single-campus organizations. These conservative definitions likely result in the **significantly lower percentage** of megachurches counted as multisite than figures seen in recent survey data (see [Thumma & Bird 2026](https://hirr.hartfordinternational.edu/wp-content/uploads/2026/06/Megachurch-Resurgence.pdf), for example)
-
-<br>
-
-<br>
-
 <br>
 
 #### Top 30 multisite megachurch counties
