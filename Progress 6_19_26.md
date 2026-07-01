@@ -1,13 +1,13 @@
 ## Table of Contents
 
-- [1. Work to date (June 19, 2026)](#1-work-to-date-june-19-2026)
+- [1. Work to date](#1-work-to-date)
   - [A. Creation of a Multisite Megachurch database](#a-creation-of-a-multisite-megachurch-database)
   - [B. Megachurch county historical rankings (Hartford database, 2001-2026)](#b-megachurch-county-historical-rankings-hartford-database-2001-2026)
   - [C. Spatial distribution (based on my location data)](#c-spatial-distribution-based-on-my-location-data)
   - [D. Urban-Rural classification](#d-urban-rural-classification)
 - [2. Next steps](#2-next-steps)
 
-## 1. Work to date (June 19, 2026)
+## 1. Work to date
 <br>
 
 ### A. Creation of a Multisite Megachurch database
@@ -110,3 +110,10 @@ Unfortunately churches usually do not publish the founding dates of their main n
 The next phase of my project will be to use archive.org snapshots of megachurch websites to ascertain the 
 founding dates of satellite campuses. 
 
+<br>
+<br>
+<br>
+<br>
+
+
+*Last revision: July 1, 2026*
