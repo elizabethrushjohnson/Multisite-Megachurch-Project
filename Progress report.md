@@ -42,7 +42,7 @@ in a physically distinct location from its parent/mother church. I made operatio
 <br>
 
 
-1. Many churches list "online" campuses, which I did not include as discrete campuses.
+1. "Online" campuses (recordings or live streaming of a service)
 2. "Spanish" or "Español" campuses (and sometimes, other languages) 
 <br>
 
