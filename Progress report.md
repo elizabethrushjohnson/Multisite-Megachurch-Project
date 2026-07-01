@@ -21,6 +21,7 @@ I spent over a month going to every single megachurch website (1666 in total), g
 
 * Names of megachurch satellite campuses
 * Number of services offered
+* City and state of satellite locations
 * Street addresses
 * Geolocation coordinates
 * Updated names & denominational information
