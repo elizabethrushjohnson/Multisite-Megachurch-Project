@@ -61,6 +61,8 @@ Churches that claimed an "online" campus and/or a Spanish-language campus at the
 
 Based on my data, the top 30 US counties in terms of their megachurch presence. 
 <br>
+<br>
+<br>
 
 
 ### B. Megachurch county historical rankings (Hartford database, 2001-2026)
