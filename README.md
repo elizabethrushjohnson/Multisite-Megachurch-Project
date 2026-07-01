@@ -10,7 +10,7 @@ Some initial results and figures from my progress so far can be viewed [here](ht
 
 ## Introduction
 
-The narrow goal of this project is a desire to examine the "Wal-Mart effect" that megachurches have on local 
+The narrow goal of this project is a desire to measure the "Wal-Mart effect" that megachurches have on local 
 Protestant Christian congregations, and examine the impact of a more recent trend in the ecclesial 
 ecology of the megachurch phenomenon -- the emergence of "multicampus" or "multisite" megachurches. 
 These multisite megachurches open satellite campuses, who typically (though not always) livestream the 
