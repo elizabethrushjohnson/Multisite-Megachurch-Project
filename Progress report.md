@@ -32,7 +32,7 @@ My expansion of the Thumma/Hartford database has 1579 active megachurches,
 <br>
 
 #### Definitions
-For the purposes of my census, a campus was defined as a discrete physical property where a church organization holds gatherings on a regular schedule (usually weekly), with a unique postal address.
+For the purposes of my census, a campus was defined as a discrete physical property (whether leased, borrowed, or owned by the church) where a church organization holds gatherings on a regular schedule (usually weekly), with a unique postal address.
 **Metropole campuses** are the main site/headquarters of a multisite megachurch organization, as distinguished from **single-campus** megachurches (such as Lakewood Church in Houston, TX), who have no multicampus satellites. 
 <br>
 
