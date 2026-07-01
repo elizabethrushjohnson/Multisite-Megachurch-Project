@@ -37,7 +37,16 @@ My expansion of the Thumma/Hartford database has 1579 active megachurches,
 <br>
 
 Based on my data, the top 30 US counties in terms of their megachurch presence. **Metropole campuses** are the main site/headquarters of a multisite megachurch organization,
-as distinguished from single-campus megachurches (such as Lakewood Church in Houston, TX), who have no multicampus satellites. 
+as distinguished from single-campus megachurches (such as Lakewood Church in Houston, TX), who have no multicampus satellites. A multisite location was counted if it holds services
+in a physically distinct location from its parent/mother church. I made operationalization/methodological decisions in counting satellite campuses in two cases:
+<br>
+
+
+1. Many churches list "online" campuses, which I did not include as discrete campuses.
+2. "Spanish" or "Español" campuses (and sometimes, other languages) 
+<br>
+
+I made the decision not to count these as discrete campuses, as my ultimate goal with this study is to evaluate the impact that multisite church organizations have on the local religious ecology in areas where multisite expansions occur. The effect of online campuses is nearly impossible to gauge, as there are no reliable "attendance" figures available for online services, which would be the only metric by which they could be evaluated. I did not count separate language services as campuses, as many churches do on their website, if they do not meet in a discrete physical location separate from the main or other satellite campuses.
 
 <br>
 
